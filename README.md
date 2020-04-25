@@ -1,6 +1,6 @@
 # 소개
 
-LeetCode 에서 풀었던 문제를 자유롭게 올려서 공유하는 곳입니다.
+[LeetCode](https://leetcode.com/) 에서 풀었던 문제를 자유롭게 올려서 공유하는 곳입니다.
 
 <br>
 
